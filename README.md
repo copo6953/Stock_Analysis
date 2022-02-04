@@ -8,4 +8,4 @@
 ![2018_Results](https://github.com/copo6953/Stock_Analysis/blob/main/Resources/2018_Results.png)
 * Based on these relults it can be concluded that a majority of the stocks we investigated performed better in 2017 than in 2018.
 * Refactoring the code resulted in faster execution times than the original script.
-![VBA_Challenge_2017](
+![VBA_Challenge_2017](https://github.com/copo6953/Stock_Analysis/blob/main/Resources/VBA_Challenge_2017.png)
