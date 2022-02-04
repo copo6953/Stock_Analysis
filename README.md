@@ -6,3 +6,6 @@
 ![2017_Results](https://github.com/copo6953/Stock_Analysis/blob/main/Resources/2017_Results.png)
 * In 2018 every stock other than ENPH and RUN had negative returns.
 ![2018_Results](https://github.com/copo6953/Stock_Analysis/blob/main/Resources/2018_Results.png)
+* Based on these relults it can be concluded that a majority of the stocks we investigated performed better in 2017 than in 2018.
+* Refactoring the code resulted in faster execution times than the original script.
+![VBA_Challenge_2017](
