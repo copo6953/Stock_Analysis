@@ -4,3 +4,4 @@
 ## Results
 * In 2017 every stock that was analyzed had a positive return other than TERP.
 ![2017_Results](https://github.com/copo6953/Stock_Analysis/blob/main/Resources/2017_Results.png)
+* In 2018 every stock other than ENPH and RUN had negative returns.
